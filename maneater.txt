@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 
+  https://stader.pro/a1/out/old/6/1866/1866_28288383maneater_dub.m3u8
